@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bd18c30.css",
+    "main.js": "/static/js/main.b6fe96b3.js",
+    "static/js/288.50ca0e97.chunk.js": "/static/js/288.50ca0e97.chunk.js",
+    "static/css/970.cc8a3f72.chunk.css": "/static/css/970.cc8a3f72.chunk.css",
+    "static/js/970.461dce86.chunk.js": "/static/js/970.461dce86.chunk.js",
+    "static/js/165.294b6534.chunk.js": "/static/js/165.294b6534.chunk.js",
+    "static/js/761.cbbd0773.chunk.js": "/static/js/761.cbbd0773.chunk.js",
+    "static/css/400.cc8a3f72.chunk.css": "/static/css/400.cc8a3f72.chunk.css",
+    "static/js/400.9a11c1d9.chunk.js": "/static/js/400.9a11c1d9.chunk.js",
+    "static/js/441.cdd6f8b6.chunk.js": "/static/js/441.cdd6f8b6.chunk.js",
+    "static/js/453.b8e3504e.chunk.js": "/static/js/453.b8e3504e.chunk.js",
+    "static/js/117.4f784179.chunk.js": "/static/js/117.4f784179.chunk.js",
+    "static/media/hi tech global connection lines background 4k H4RDJ9P.webm": "/static/media/hi tech global connection lines background 4k H4RDJ9P.d9acb6faa96ca4a7adec.webm",
+    "static/media/videoplayback.mp4": "/static/media/videoplayback.f89a5d2c1a5c7f0a222e.mp4",
+    "static/media/pexels-8moments-1183099.jpg": "/static/media/pexels-8moments-1183099.3f9a002a97ca069095c0.jpg",
+    "static/media/photo-1531545514256-b1400bc00f31.avif": "/static/media/photo-1531545514256-b1400bc00f31.811db55fa4c5be984953.avif",
+    "static/media/istockphoto-921356686-612x612.jpg": "/static/media/istockphoto-921356686-612x612.1ceb363c3945fec96b34.jpg",
+    "static/media/software_engineer.jpeg.webp": "/static/media/software_engineer.jpeg.9609683358cd32e0b557.webp",
+    "static/media/businessman-hand-working-with-finances-about-cost-and-calculator-and-laptop-computer-on-wooden-desk-in-modern-office-photo.jpeg": "/static/media/businessman-hand-working-with-finances-about-cost-and-calculator-and-laptop-computer-on-wooden-desk-in-modern-office-photo.55cfa97bb469d9f8ae88.jpeg",
+    "static/media/images (4).jpeg": "/static/media/images (4).c5f2b26b316f23498d18.jpeg",
+    "index.html": "/index.html",
+    "main.8bd18c30.css.map": "/static/css/main.8bd18c30.css.map",
+    "main.b6fe96b3.js.map": "/static/js/main.b6fe96b3.js.map",
+    "288.50ca0e97.chunk.js.map": "/static/js/288.50ca0e97.chunk.js.map",
+    "970.cc8a3f72.chunk.css.map": "/static/css/970.cc8a3f72.chunk.css.map",
+    "970.461dce86.chunk.js.map": "/static/js/970.461dce86.chunk.js.map",
+    "165.294b6534.chunk.js.map": "/static/js/165.294b6534.chunk.js.map",
+    "761.cbbd0773.chunk.js.map": "/static/js/761.cbbd0773.chunk.js.map",
+    "400.cc8a3f72.chunk.css.map": "/static/css/400.cc8a3f72.chunk.css.map",
+    "400.9a11c1d9.chunk.js.map": "/static/js/400.9a11c1d9.chunk.js.map",
+    "441.cdd6f8b6.chunk.js.map": "/static/js/441.cdd6f8b6.chunk.js.map",
+    "453.b8e3504e.chunk.js.map": "/static/js/453.b8e3504e.chunk.js.map",
+    "117.4f784179.chunk.js.map": "/static/js/117.4f784179.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bd18c30.css",
+    "static/js/main.b6fe96b3.js"
+  ]
+}
